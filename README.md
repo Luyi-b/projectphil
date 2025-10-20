@@ -1,2 +1,2 @@
-# projecttolu
+# project-tolu
 Personal project 
