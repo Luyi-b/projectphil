@@ -1,2 +1,2 @@
 # project-tolu
-Personal project to test 123
+Personal project to test
